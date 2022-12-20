@@ -10,7 +10,7 @@ To find out:
 5. Mostly used name in last 101 years
 6. Classify each name's popularity according to the number of years
 
-PLEASE NOTE THAT FROM SQL QUARRY NOT ALL THE DATA SHOWN IN THE DATA VISUALITION. 
+PLEASE NOTE THAT FROM SQL QUARRY NOT ALL THE DATA SHOWN IN THE DATA VISUALITATION.
 
 # You can see the visualition in the uploaded pdf as well as in the tableau link: https://public.tableau.com/app/profile/shahriar4560 #
 
