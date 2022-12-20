@@ -11,7 +11,7 @@ To find out:
 6. Classify each name's popularity according to the number of years
 
 # You can see the visualition in the uploaded pdf as well as in the tableau link: https://public.tableau.com/app/profile/shahriar4560 #
-
+PLEASE NOTE THAT FROM SQL QUARRY NOT ALL THE DATA SHOWN IN THE DATA VISUALITION. 
 
 ![image](https://user-images.githubusercontent.com/119105391/208666416-a69abb83-f029-4f68-ad3a-ebc7abdc3208.png)
 Photo by Travis Wise on Wikimedia.
